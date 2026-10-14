@@ -1,11 +1,11 @@
-# Hi 👋, I'm Kallel Rocha
+Hi 👋, I'm Kallel Rocha
 
-💻 **Aspiring Software Developer | Computer Science Student**  
+💻 Software Engineering Student | Developer
 🇧🇷 Brazil
 
-I'm a programming student passionate about technology and software development. I'm currently learning how to build web applications, work with databases, and develop solutions through code.
+I'm a Software Engineering student passionate about technology and software development. I'm learning to build web applications, work with databases, and develop solutions through code.
 
-My main interests are **Backend Development, Artificial Intelligence, and Web Development**. I'm constantly learning, practicing, and building projects to improve my programming skills.
+My main interests are Backend Development, Artificial Intelligence, and Web Development. I'm constantly learning, practicing, and building projects to improve my programming skills.
 
 ---
 
